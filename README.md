@@ -22,7 +22,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dxp10&theme=github_dark) 
-![](https://komarev.com/ghpvc/?username=dxp10)
+![](https://komarev.com/ghpvc/?username=amx122)
 
 
 ![giphy (2)](https://user-images.githubusercontent.com/89845641/219144237-cf8751f7-8c41-4fcd-a263-6e3df85b9fbc.gif)
